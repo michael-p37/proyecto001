@@ -2,6 +2,7 @@ body{
     background-color: #0035;
     color: #ccc;
     text-align: center;
+    font-family: Georgia, sans-serif;
 }
 .box{
     height: 300px;
