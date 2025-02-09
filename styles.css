@@ -1,0 +1,14 @@
+body{
+    background-color: #0035;
+    color: #ccc;
+    text-align: center;
+}
+.box{
+    height: 300px;
+    width: 500px;
+    background: rgb(141, 73, 48);
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+   
+}
