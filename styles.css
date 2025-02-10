@@ -1,8 +1,8 @@
 body{
     background-color: #0035;
-    color: #ccc;
+    color: #fff;
     text-align: center;
-    font-family: Georgia, sans-serif;
+    font-family: sans-serif;
 }
 .box{
     height: 300px;
@@ -10,6 +10,5 @@ body{
     background: rgb(141, 73, 48);
     padding: 20px;
     margin: auto;
-    border-radius: 10px;
-   
+    border-radius: 10px;  
 }
